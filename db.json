@@ -1,0 +1,1710 @@
+{
+    "HomeSlider": [
+        {
+            "slideimageurl": "https://ithinkbigger.com/wp-content/uploads/2022/03/eCommerce-Website-Components-photo.jpg",
+            "slidetitle": "Hurry Up",
+            "slidesubtitle": "Get Upto 50% Off On All Products ",
+            "id": 1
+        },
+        {
+            "slideimageurl": "https://cdn.shopify.com/s/files/1/0582/0406/1873/files/Apparel-01-min.jpg?v=1638470669",
+            "slidetitle": "Best Mens Cloths",
+            "slidesubtitle": "Get Best Deals And Offers",
+            "id": 2
+        },
+        {
+            "slideimageurl": "https://media-exp2.licdn.com/dms/image/C4E1BAQGU5aBOkBnOKQ/company-background_10000/0/1570667445517?e=2147483647&v=beta&t=4zTBTAcEJK0o9lljORVaUXfy03UBuD4xmBQUZySaBIM",
+            "slidetitle": "Best Womens Collection",
+            "slidesubtitle": "Get Best Womens Collection And Offers ",
+            "id": 3
+        },
+        {
+            "slideimageurl": "https://www.baero.com/fileadmin/Retail%20Lighting/Bilder/Stage/baero_anwendungsbereiche_fashionundtextil_stage.jpg",
+            "slidetitle": "Best Kids Cloths",
+            "slidesubtitle": "Get Best Offers On Kids Cloths, Sale Start Soon",
+            "id": 4
+        }
+    ],
+    "Mensliderdata": [
+        {
+            "id": 1,
+            "productname": "Classic Spring",
+            "productaddedate": "2023-07-25",
+            "productoffer": " 3499",
+            "productqut": "1",
+            "productimg": "https://images.unsplash.com/photo-1617137968427-85924c800a22?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWVucyUyMGZhc2hpb258ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+            "productdiscraption": "best cloths for men"
+        },
+        {
+            "id": 2,
+            "productname": "Classic Stome",
+            "productaddedate": "2023-07-25",
+            "productoffer": " 1900",
+            "productqut": "1",
+            "productimg": "https://www.universityoffashion.com/blog/wp-content/uploads/2021/07/A-look-from-Brionis-Spring-2022-Collection.-Photo-Credit-Brioni.-scaled.jpg",
+            "productdiscraption": "best cloths for men"
+        },
+        {
+            "id": 3,
+            "productname": "Air Force 1 X",
+            "productaddedate": "2023-07-25",
+            "productoffer": " 2499",
+            "productqut": "1",
+            "productimg": "https://img.freepik.com/free-photo/man-portrait_1296-626.jpg?w=2000",
+            "productdiscraption": "best cloths for men"
+        },
+        {
+            "id": 4,
+            "productname": "Love Nani ' 20",
+            "productaddedate": "2023-07-25",
+            "productoffer": " 999",
+            "productqut": "1",
+            "productimg": "https://i.pinimg.com/736x/66/1e/39/661e39d2aac31147c75efe1515fe8d61.jpg",
+            "productdiscraption": "best cloths for men"
+        },
+        {
+            "id": 5,
+            "productname": "Lost Stack",
+            "productaddedate": "2023-07-25",
+            "productoffer": " 1299",
+            "productqut": "1",
+            "productimg": "https://i.pinimg.com/736x/63/bc/04/63bc04d4c8bbc36c9fa60fca15001b36.jpg",
+            "productdiscraption": "best cloths for men"
+        },
+        {
+            "id": 6,
+            "productname": "Classy Style",
+            "productaddedate": "2023-07-25",
+            "productoffer": " 1799",
+            "productqut": "1",
+            "productimg": "https://www.tiptopgents.com/wp-content/uploads/2022/06/picsart_22-06-23_13-17-03-2948685519744956187826.webp",
+            "productdiscraption": "best cloths for men"
+        }
+    ],
+    "Womensliderdata": [
+        {
+            "id": 0,
+            "productname": "Popsuger",
+            "productaddedate": "2023-07-26",
+            "productoffer": " 1599",
+            "productqut": "1",
+            "productimg": "https://media1.popsugar-assets.com/files/thumbor/UPEB-LvSoc7hr_gJkASisJ8m9ow/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/05/19/829/n/1922564/e11061fd0ec3ed21_151989639/i/Youre-girl-all-your-friends-come-when-new-trend-pops-up.jpg",
+            "productdiscraption": "best cloths for women"
+        },
+        {
+            "id": 1,
+            "productname": "Trousers",
+            "productaddedate": "2023-07-26",
+            "productoffer": " 999",
+            "productqut": "1",
+            "productimg": "https://i.pinimg.com/736x/b5/d1/8c/b5d18c8da3a752a13160218bd3e942ed.jpg",
+            "productdiscraption": "best cloths for women"
+        },
+        {
+            "id": 2,
+            "productname": "Salwar-suti",
+            "productaddedate": "2023-07-26",
+            "productoffer": " 1599",
+            "productqut": "1",
+            "productimg": "https://i.pinimg.com/474x/a4/56/ac/a456ac8c451bfe86478d2bab9c821331.jpg",
+            "productdiscraption": "best cloths for women"
+        },
+        {
+            "id": 3,
+            "productname": "Jeans-Tshirt",
+            "productaddedate": "2023-07-26",
+            "productoffer": " 899",
+            "productqut": "1",
+            "productimg": "https://media1.popsugar-assets.com/files/thumbor/AxpC_IMxOXTSOdhghlHoxJQlR3A/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/05/28/849/n/1922564/6e2d079f47c0f709_imaxtree/i/Master-Basics-First.jpg",
+            "productdiscraption": "best cloths for women"
+        },
+        {
+            "id": 4,
+            "productname": "Chic Outfit",
+            "productaddedate": "2023-07-26",
+            "productoffer": " 1299",
+            "productqut": "1",
+            "productimg": "https://publish.purewow.net/wp-content/uploads/sites/2/2022/05/june-outfit-ideas-2022-all-black-outfit.jpg",
+            "productdiscraption": "best cloths for women"
+        },
+        {
+            "id": 5,
+            "productname": "Jumpsuti",
+            "productaddedate": "2023-07-26",
+            "productoffer": " 1399",
+            "productqut": "1",
+            "productimg": "https://rukminim1.flixcart.com/image/832/832/xif0q/jumpsuit/x/i/6/s-bvjs1007-belavine-original-imagmw98v2ehs4ne.jpeg?q=70",
+            "productdiscraption": "best cloths for women"
+        }
+    ],
+    "Kidsliderdata": [
+        {
+            "id": 0,
+            "productname": "Casual",
+            "productaddedate": "2023-07-27",
+            "productoffer": " 899",
+            "productqut": "1",
+            "productimg": "https://images.kapsonsonline.com/kopl/images/GAS%20KIDS/410317150_0001/410317150_0001_1.jpg",
+            "productdiscraption": "best cloths for kids"
+        },
+        {
+            "id": 1,
+            "productname": "Boys-Traditional",
+            "productaddedate": "2023-07-27",
+            "productoffer": " 1299",
+            "productqut": "1",
+            "productimg": "https://ik.imagekit.io/bhsa3gea8yj/products/tr:w-1200/products-2018/Nov-2021/Handloom-Silk-Kurta-Pajama-In-Light-Brown-Colour-BK2710911-A.jpg",
+            "productdiscraption": "best cloths for kids"
+        },
+        {
+            "id": 2,
+            "productname": "Summer-ware",
+            "productaddedate": "2023-07-27",
+            "productoffer": " 599",
+            "productqut": "1",
+            "productimg": "https://images.squarespace-cdn.com/content/v1/559c4026e4b0b05c516049a2/1652107082005-75O9TI9SFX1E7C0ROCDA/DSC_3949.jpg",
+            "productdiscraption": "best cloths for kids"
+        },
+        {
+            "id": 3,
+            "productname": "Winter-ware",
+            "productaddedate": "2023-07-27",
+            "productoffer": " 799",
+            "productqut": "1",
+            "productimg": "https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto,q_auto:eco,c_limit/11638777094448.jpg",
+            "productdiscraption": "best cloths for kids"
+        },
+        {
+            "id": 4,
+            "productname": "Kids-Shorts",
+            "productaddedate": "2023-07-27",
+            "productoffer": " 299",
+            "productqut": "1",
+            "productimg": "https://asset1.cxnmarksandspencer.com/is/image/mands/SD_04_T87_3031V_E0_X_EC_0?wid=1024&qlt=80",
+            "productdiscraption": "best cloths for kids"
+        },
+        {
+            "id": 5,
+            "productname": "Girls-Traditional",
+            "productoffer": "999",
+            "productaddedate": "2023-07-27",
+            "productqut": "1",
+            "productimg": "https://i.pinimg.com/236x/63/9b/e1/639be1b614c3eeb24b1f67e24ed92e0b.jpg",
+            "productdiscraption": "best cloths for kids"
+        }
+    ],
+    "Ourteamcarddata": [
+        {
+            "id": 0,
+            "photo": "https://images.unsplash.com/photo-1659333092645-0da4df62daa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&w=1000&q=80",
+            "name": "Jiya Sinoya",
+            "post": "Marketing Head"
+        },
+        {
+            "id": 1,
+            "photo": "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-842811.jpg&fm=jpg",
+            "name": "Rembo Diza",
+            "post": "Creatore"
+        },
+        {
+            "id": 2,
+            "photo": "https://burst.shopifycdn.com/photos/bearded-young-man.jpg?width=1200&format=pjpg&exif=1&iptc=1",
+            "name": "Jemmy Roy",
+            "post": "Producion Head"
+        }
+    ],
+    "Ourbrands": [
+        {
+            "id": 0,
+            "image": "https://assets.turbologo.com/blog/en/2019/10/19084949/chanel-logo-illustration-958x575.jpg",
+            "brandname": "chanel"
+        },
+        {
+            "id": 1,
+            "image": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30143359/2_big1.png",
+            "brandname": "adidas"
+        },
+        {
+            "id": 2,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKsfNjArDCu_twsJ4Uy_53s2Ex4C_Bc1R01w&usqp=CAU",
+            "brandname": "tommy hilfiger"
+        },
+        {
+            "id": 3,
+            "image": "https://assets.turbologo.com/blog/en/2020/01/19084715/georgio-armani-logo.png",
+            "brandname": "giorgio armani"
+        },
+        {
+            "id": 4,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAZ3ibGPIIefPGBsIWPnnQV_BxhNT4mWRsEaKlrjblfG4e_zL0oCgeQHzewz8tFInu2U&usqp=CAU",
+            "brandname": "boos"
+        },
+        {
+            "id": 5,
+            "image": "https://2.bp.blogspot.com/-NxanX5aQYl4/ULcnuIOQ9JI/AAAAAAAABCc/d3h_JbhSSzA/s1600/d_g_logo.jpg",
+            "brandname": "dolce & gabbana"
+        },
+        {
+            "id": 6,
+            "image": "https://assets.turbologo.ru/blog/ru/2021/11/12082225/Levis_logo.png",
+            "brandname": "Lavi's"
+        },
+        {
+            "id": 7,
+            "image": "https://images-cdn.ubuy.co.in/6351dcb31b0725417f0531d8-u-s-polo-assn-girls-39-school.jpg",
+            "brandname": "us polo"
+        },
+        {
+            "id": 8,
+            "image": "https://businesstalkmagazine.com/wp-content/uploads/2022/05/Allen-Solly.jpg",
+            "brandname": "allen solly"
+        },
+        {
+            "id": 9,
+            "image": "https://images-platform.99static.com/PEg4SNAR9Tf5hkfr62D4RVw2a-Q=/500x500/top/smart/99designs-contests-attachments/45/45279/attachment_45279240",
+            "brandname": "louis philippe"
+        },
+        {
+            "id": 10,
+            "image": "https://www.logolynx.com/images/logolynx/74/7476d45ced6a8a7cb5b4ae7f61cf8016.jpeg",
+            "brandname": "H & M"
+        },
+        {
+            "id": 11,
+            "image": "https://wallpapercave.com/wp/wp2013016.png",
+            "brandname": "calvin klein"
+        }
+    ],
+    "Contactusdata": [
+        {
+            "firstname": "divyesh",
+            "lastname": "patel",
+            "email": "divyesh24@gmail.com",
+            "mobile": "9924813919",
+            "message": "hellow, can we meet?",
+            "id": 1
+        },
+        {
+            "firstname": "divya",
+            "lastname": "patel",
+            "email": "divya26@gmail.com",
+            "mobile": "9874584630",
+            "message": "hellow, can we meet?",
+            "id": 2
+        },
+        {
+            "firstname": "dhaval",
+            "lastname": "patel",
+            "email": "dhaval09@gmail.com",
+            "mobile": " 9825166515",
+            "message": "hellow sir",
+            "id": 3
+        },
+        {
+            "firstname": "priya",
+            "lastname": "desai",
+            "email": "pd24@gmail.com",
+            "mobile": "9325680147",
+            "message": "hellow",
+            "id": 4
+        },
+        {
+            "firstname": "riya",
+            "lastname": "patel",
+            "email": "riyab26@gmail.com",
+            "mobile": "9054215952",
+            "message": "hellow, can we meet?",
+            "id": 5
+        },
+        {
+            "firstname": "charan",
+            "lastname": "patel",
+            "email": "charanpatel24@gmail.com",
+            "mobile": "9858746314",
+            "message": "lets discuss project",
+            "id": 6
+        },
+        {
+            "firstname": "ewa",
+            "lastname": "makvana",
+            "email": "ewa762GMAIL.COM",
+            "mobile": "8523697014",
+            "message": "hellow ",
+            "id": 7
+        },
+        {
+            "firstname": "divyesh",
+            "lastname": "patel",
+            "email": "divyesh24@gmail.com",
+            "mobile": "9924813918",
+            "message": "hellow, can we meet?",
+            "id": 8
+        },
+        {
+            "firstname": "raj",
+            "lastname": "patil",
+            "email": "raj09@gmail.com",
+            "mobile": "9254781306",
+            "message": "hellow sir",
+            "id": 9
+        },
+        {
+            "firstname": "priya",
+            "lastname": "desai",
+            "email": "pd24@gmail.com",
+            "mobile": "9325680147",
+            "message": "hellow",
+            "id": 10
+        },
+        {
+            "firstname": "paras",
+            "lastname": "vekriya",
+            "email": "paras43@gmail.com",
+            "mobile": "9630125478",
+            "message": "help me to track my order",
+            "id": 11
+        },
+        {
+            "firstname": "axit",
+            "lastname": "vamja",
+            "email": "axiy32@gmail.com",
+            "mobile": "9520143670",
+            "message": "help me to creat account",
+            "id": 12
+        },
+        {
+            "firstname": "dhaval",
+            "lastname": "kanjariya",
+            "email": "dhaval65@gmail.com",
+            "mobile": "7852014963",
+            "message": "hellow, i want to try create account but i can't help my to create account.",
+            "id": 13
+        },
+        {
+            "firstname": "prit",
+            "lastname": "ladani",
+            "email": "pritladani07@gmail.com",
+            "mobile": "9099525868",
+            "message": "aa topa",
+            "id": 14
+        },
+        {
+            "firstname": "Divyesh",
+            "lastname": "kalariya",
+            "email": "divyeshkalariya26@gmail.com",
+            "mobile": "9924813918",
+            "message": "i want buy some cloths",
+            "id": 15
+        }
+    ],
+    "AddState": [
+        {
+            "state": "Gujarat",
+            "id": 1
+        },
+        {
+            "state": "Rajesthan",
+            "id": 2
+        },
+        {
+            "state": "Delhi",
+            "id": 3
+        }
+    ],
+    "AddCity": [
+        {
+            "state": "Gujarat",
+            "city": "Junagadh",
+            "id": 1
+        },
+        {
+            "state": "Gujarat",
+            "city": "Ahmedabad",
+            "id": 2
+        },
+        {
+            "state": "Rajesthan",
+            "city": "Nathdwar",
+            "id": 3
+        },
+        {
+            "state": "Gujarat",
+            "city": "rajkot",
+            "id": 4
+        },
+        {
+            "state": "Delhi",
+            "city": "Delhi",
+            "id": 5
+        },
+        {
+            "state": "Rajesthan",
+            "city": "udaipur",
+            "id": 6
+        },
+        {
+            "state": "Rajesthan",
+            "city": "Jaipur",
+            "id": 7
+        },
+        {
+            "state": "Gujarat",
+            "city": "Vadodara",
+            "id": 8
+        }
+    ],
+    "Accountdata": [
+        {
+            "username": "divyesh26",
+            "email": "divyesh32@gmail.com",
+            "password": "div582",
+            "confirmpassword": "div582",
+            "dateofbirth": "2001-07-29",
+            "state": "gujarat",
+            "city": "Rajkot",
+            "gender": "male",
+            "id": 1
+        },
+        {
+            "username": "divya",
+            "email": "divya32@gmail.com",
+            "password": "divya582",
+            "confirmpassword": "divya582",
+            "dateofbirth": "2001-02-26",
+            "gender": "female",
+            "state": "gujarat",
+            "city": "Ahmedabad",
+            "id": 2
+        },
+        {
+            "username": "dinesh",
+            "email": "dinesh58@gmail.com",
+            "password": "dinesh58",
+            "confirmpassword": "dinesh58",
+            "dateofbirth": "2001-02-26",
+            "gender": "male",
+            "state": "gujarat",
+            "city": "Junagadh",
+            "id": 3
+        },
+        {
+            "username": "deep26",
+            "email": "deep32@gmail.com",
+            "password": "deep582",
+            "confirmpassword": "deep582",
+            "dateofbirth": "1999-04-26",
+            "gender": "male",
+            "state": "Rajesthan",
+            "city": "Nathdwar",
+            "id": 4
+        },
+        {
+            "username": "jiya43",
+            "email": "jiya43@gmail.com",
+            "password": "jiya582",
+            "confirmpassword": "jiya582",
+            "dateofbirth": "1984-03-26",
+            "gender": "female",
+            "state": "Delhi",
+            "city": "Delhi",
+            "id": 5
+        },
+        {
+            "username": "puja007",
+            "email": "puja@23gmail.com",
+            "password": "pu456",
+            "confirmpassword": "pu456",
+            "dateofbirth": "1999-02-10",
+            "gender": "female",
+            "state": "gujarat",
+            "city": "Surat",
+            "id": 6
+        },
+        {
+            "username": "baburaw",
+            "state": "gujarat",
+            "city": "jamnagar",
+            "email": "baburaw23@gmail.com",
+            "password": "babu23",
+            "confirmpassword": "babu23",
+            "dateofbirth": "1993-07-20",
+            "gender": "male",
+            "id": 7
+        },
+        {
+            "username": "raju",
+            "state": "gujarat",
+            "city": "mandvi",
+            "email": "raju34@gmail.com",
+            "password": "raju34",
+            "confirmpassword": "raju34",
+            "dateofbirth": "1995-05-04",
+            "gender": "male",
+            "id": 8
+        },
+        {
+            "username": "payal",
+            "state": "Gujarat",
+            "city": "rajkot",
+            "email": "payal16@gmail.com",
+            "password": "payal16",
+            "confirmpassword": "payal16",
+            "dateofbirth": "1997-02-26",
+            "gender": "female",
+            "id": 9
+        },
+        {
+            "username": "Rina",
+            "state": "gujarat",
+            "city": "Morbi",
+            "email": "rina21@gmail.com",
+            "password": "rina12",
+            "confirmpassword": "rina21",
+            "dateofbirth": "2000-01-29",
+            "gender": "female",
+            "id": 10
+        },
+        {
+            "username": "Janak",
+            "state": "gujarat",
+            "city": "Rajkot",
+            "email": "janak09@gmail.com",
+            "password": "janak09",
+            "confirmpassword": "janak09",
+            "dateofbirth": "2002-09-12",
+            "gender": "male",
+            "id": 11
+        },
+        {
+            "username": "raj",
+            "state": "Rajesthan",
+            "city": "Nathdwar",
+            "email": "rajpatel32@gmail.com",
+            "password": "raj32",
+            "confirmpassword": "raj32",
+            "dateofbirth": "2021-02-25",
+            "gender": "male",
+            "id": 12
+        },
+        {
+            "username": "riya",
+            "state": "Delhi",
+            "city": "Delhi",
+            "email": "riyu32@gmail.com",
+            "password": "riyu32",
+            "confirmpassword": "riyu32",
+            "dateofbirth": "2001-07-19",
+            "gender": "female",
+            "id": 13
+        },
+        {
+            "username": "brijesh",
+            "state": "Gujarat",
+            "city": "Ahmedabad",
+            "email": "brijesh234@gmil.com",
+            "password": "brijesh234",
+            "confirmpassword": "brijesh234",
+            "dateofbirth": "1990-12-23",
+            "gender": "male",
+            "id": 14
+        },
+        {
+            "username": "shivam",
+            "state": "Rajesthan",
+            "city": "Nathdwar",
+            "email": "sdube1997@gmail.com",
+            "password": "shivam19917",
+            "confirmpassword": "shivam1997",
+            "dateofbirth": "1997-01-03",
+            "gender": "male",
+            "id": 15
+        },
+        {
+            "username": "chiku",
+            "email": "chiku23@gmail.com",
+            "password": "chi5345",
+            "confirmpassword": "chi5345",
+            "dateofbirth": "1997-04-12",
+            "state": "gujarat",
+            "city": "Junagadh",
+            "gender": "female",
+            "id": 16
+        },
+        {
+            "username": "pinkal",
+            "email": "pinkal76@gmail.com",
+            "password": "pinku357",
+            "confirmpassword": "pinku357",
+            "dateofbirth": "2001-07-12",
+            "gender": "female",
+            "state": "gujarat",
+            "city": "Vadodara",
+            "id": 17
+        },
+        {
+            "username": "miral",
+            "email": "miral989@gmail.com",
+            "password": "miral989",
+            "confirmpassword": "miral989",
+            "dateofbirth": "1999-11-26",
+            "gender": "female",
+            "state": "gujarat",
+            "city": "Junagadh",
+            "id": 18
+        },
+        {
+            "username": "komal",
+            "email": "komu290@gmail.com",
+            "password": "komu290",
+            "confirmpassword": "komu290",
+            "dateofbirth": "2003-04-16",
+            "gender": "female",
+            "state": "Rajesthan",
+            "city": "Nathdwar",
+            "id": 19
+        },
+        {
+            "username": "jay",
+            "email": "jya786@gmail.com",
+            "password": "jya786",
+            "confirmpassword": "jya786",
+            "dateofbirth": "1994-05-30",
+            "gender": "male",
+            "state": "Delhi",
+            "city": "Delhi",
+            "id": 20
+        }
+    ],
+    "Footer": [
+        {
+            "yearfrom": "2020",
+            "yearto": "2023",
+            "id": 1
+        }
+    ],
+    "AddCategories": [
+        {
+            "categoryname": "Mens",
+            "categorydate": "2023-07-25",
+            "categorydescraption": "Best cloths for mens all time collection.",
+            "id": 1
+        },
+        {
+            "categoryname": "Womens",
+            "categorydate": "2023-07-26",
+            "categorydescraption": "Best cloths for womens.",
+            "id": 2
+        },
+        {
+            "categoryname": "Kids",
+            "categorydate": "2023-07-27",
+            "categorydescraption": "Best cloths for kids collection",
+            "id": 3
+        },
+        {
+            "categoryname": "Accessories",
+            "categorydate": "2023-07-28",
+            "categorydescraption": "Best Collection for Mens , Womens and Kids Accessories",
+            "id": 4
+        }
+    ],
+    "AddSubCategories": [
+        {
+            "categoryname": "Mens ",
+            "subcategoryname": "All Sesason",
+            "subcategorydate": "2023-07-25",
+            "subcategorydescraption": "best collection for Sesason for men",
+            "id": 1
+        },
+        {
+            "categoryname": "Mens ",
+            "subcategoryname": "Summer Cloths",
+            "subcategorydate": "2023-07-25",
+            "subcategorydescraption": "best collection for winter for men",
+            "id": 2
+        },
+        {
+            "categoryname": "Mens ",
+            "subcategoryname": "Winter Cloths",
+            "subcategorydate": "2023-07-25",
+            "subcategorydescraption": "best collection for winter for men",
+            "id": 3
+        },
+        {
+            "categoryname": "Mens ",
+            "subcategoryname": "Monsoon Cloths",
+            "subcategorydate": "2023-07-25",
+            "subcategorydescraption": "best collection for winter for men",
+            "id": 4
+        },
+        {
+            "categoryname": "Mens ",
+            "subcategoryname": "Wedding Cloths",
+            "subcategorydate": "2023-07-25",
+            "subcategorydescraption": "best collection for winter for men",
+            "id": 5
+        },
+        {
+            "categoryname": "Womens",
+            "subcategoryname": "All Sesason",
+            "subcategorydate": "2023-07-26",
+            "subcategorydescraption": "Best quality womens Sesason cloths",
+            "id": 6
+        },
+        {
+            "categoryname": "Womens",
+            "subcategoryname": "Summer Cloths",
+            "subcategorydate": "2023-07-26",
+            "subcategorydescraption": "Best quality womens winter cloths",
+            "id": 7
+        },
+        {
+            "categoryname": "Womens",
+            "subcategoryname": "Winter Cloths",
+            "subcategorydate": "2023-07-26",
+            "subcategorydescraption": "Best quality womens winter cloths",
+            "id": 8
+        },
+        {
+            "categoryname": "Womens",
+            "subcategoryname": "Monsoon Cloths",
+            "subcategorydate": "2023-07-26",
+            "subcategorydescraption": "Best quality womens winter cloths",
+            "id": 9
+        },
+        {
+            "categoryname": "Womens",
+            "subcategoryname": "Wedding Cloths",
+            "subcategorydate": "2023-07-26",
+            "subcategorydescraption": "Best quality womens winter cloths",
+            "id": 10
+        },
+        {
+            "categoryname": "Kids ",
+            "subcategoryname": "All Sesason",
+            "subcategorydate": "2023-07-27",
+            "subcategorydescraption": "best collection for Sesason for Kids",
+            "id": 11
+        },
+        {
+            "categoryname": "Kids ",
+            "subcategoryname": "Summer Cloths",
+            "subcategorydate": "2023-07-27",
+            "subcategorydescraption": "best collection for winter for Kids",
+            "id": 12
+        },
+        {
+            "categoryname": "Kids ",
+            "subcategoryname": "Winter Cloths",
+            "subcategorydate": "2023-07-27",
+            "subcategorydescraption": "best collection for winter for Kids",
+            "id": 13
+        },
+        {
+            "categoryname": "Kids ",
+            "subcategoryname": "Monsoon Cloths",
+            "subcategorydate": "2023-07-27",
+            "subcategorydescraption": "best collection for winter for Kids",
+            "id": 14
+        },
+        {
+            "categoryname": "Kids ",
+            "subcategoryname": "Wedding Cloths",
+            "subcategorydate": "2023-07-27",
+            "subcategorydescraption": "best collection for winter for Kids",
+            "id": 15
+        }
+    ],
+    "AddProducts": [
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "All Sesason",
+            "productname": "Classic Spring",
+            "productimg": "https://images.unsplash.com/photo-1617137968427-85924c800a22?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWVucyUyMGZhc2hpb258ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+            "productqut": "1",
+            "productprice": "6999",
+            "productoffer": "",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "best cloths for men Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 1
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Classic Stome",
+            "productimg": "https://www.universityoffashion.com/blog/wp-content/uploads/2021/07/A-look-from-Brionis-Spring-2022-Collection.-Photo-Credit-Brioni.-scaled.jpg",
+            "productqut": "1",
+            "productprice": "3799",
+            "productoffer": " 1900",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "best cloths for men Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 2
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Air Force 1 X",
+            "productimg": "https://img.freepik.com/free-photo/man-portrait_1296-626.jpg?w=2000",
+            "productqut": "1",
+            "productprice": "4599",
+            "productoffer": " 2499",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "best cloths for men Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 3
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Love Nani ' 20",
+            "productimg": "https://i.pinimg.com/736x/66/1e/39/661e39d2aac31147c75efe1515fe8d61.jpg",
+            "productqut": "1",
+            "productprice": "1899",
+            "productoffer": " 999",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "best cloths for men Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 4
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Lost Stack",
+            "productimg": "https://i.pinimg.com/736x/63/bc/04/63bc04d4c8bbc36c9fa60fca15001b36.jpg",
+            "productqut": "1",
+            "productprice": "2299",
+            "productoffer": " 1299",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "best cloths for men Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 5
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Classy Style",
+            "productimg": "https://www.tiptopgents.com/wp-content/uploads/2022/06/picsart_22-06-23_13-17-03-2948685519744956187826.webp",
+            "productqut": "1",
+            "productprice": "2999",
+            "productoffer": " 1799",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "best cloths for men Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 6
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "shirt",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/l046he80/shirt/2/z/z/xxl-stripes-patta-latest-trendy-zera-shirts-for-human-blue-original-imagbzd6ptvcd8yh.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1999",
+            "productoffer": "1099",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap summer men's warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded Men Slim Fit Striped Button Down Collar Casual Shirt Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 7
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "T-shirt",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/l1grgcw0/t-shirt/x/o/5/m-t428hs-tm5p-eyebogler-original-imagdf2egzjxeqgk.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1499",
+            "productoffer": "999",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Summer Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded Men Striped Polo Neck Cotton Blend Blue T-Shirt. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 8
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "Shorts",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/short/l/2/p/l-premium-fabric-sport-short-yazole-original-imaggwuutwfjy4sg.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "999",
+            "productoffer": "599",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap summer Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded mens shorts for summer. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 9
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Jackets",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/kirr24w0/jacket/t/v/h/m-m7aw20jkt005a-m7-by-metronaut-original-imafyhekdyh3vkrp.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "2599",
+            "productoffer": "1899",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Winter Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded Men Colorblock Padded Jacket. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 10
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Jackets",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/9/x/p/m-1-no-dtaw22jk013a-ducati-original-imagjhmvbd4pem4g.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "2199",
+            "productoffer": "1599",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Winter Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded Men Colorblock Quilted Jacket. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 11
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Jackets",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/kvgzyq80/thermal/q/s/q/85-ambwhnul-mel-gry-p-alfa-original-imag8db6duhd4kca.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "999",
+            "productoffer": "599",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Winter Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded ALFA BodyWarmer High Neck Winter Wear Men Top Thermal. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 12
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Monsoon Cloths",
+            "productname": "Black Raincort",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/l3dcl8w0/raincoat/y/1/b/3xl-wf121eco-ecoblack-zeel-original-imageg44dyxz2spp.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1899",
+            "productoffer": "1099",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Winter Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded Solid Men Raincoat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 13
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Monsoon Cloths",
+            "productname": "Gray Raincort",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/raincoat/u/g/g/m-30392-wildcraft-original-imag3ujrmdyepy47-bb.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1599",
+            "productoffer": "899",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Winter Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 14
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Monsoon Cloths",
+            "productname": "Heavy Raincort",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/raincoat/t/b/x/l-41739-wildcraft-original-imag3ppmqzkkdyxj-bb.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1999",
+            "productoffer": "599",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Winter Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 15
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "kurta set",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/l1whaq80/ethnic-set/h/0/2/38-kurta-dhoti-set-freestyle-fashion-original-imagddbxtdf62hzb.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1599",
+            "productoffer": "799",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap wedding Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded Men Cotton Blend Dhoti & Kurta Set. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 16
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "Halidi Kurta",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/ethnic-set/t/t/l/l-bk-502-flossy-original-imagpnjh5uxxwnpp.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1999",
+            "productoffer": "1055",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap wedding Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded Men Cotton Blend Kurta and Pyjama Set. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 17
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "Short Blazzer",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/waistcoat/k/j/2/48-waistcoat-222-s19-manq-original-imaewzfnwzzwzqtq-bb.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1999",
+            "productoffer": "1049",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Wedding Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded Solid Men Waistcoat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 18
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Popsuger",
+            "productimg": "https://media1.popsugar-assets.com/files/thumbor/UPEB-LvSoc7hr_gJkASisJ8m9ow/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/05/19/829/n/1922564/e11061fd0ec3ed21_151989639/i/Youre-girl-all-your-friends-come-when-new-trend-pops-up.jpg",
+            "productqut": "1",
+            "productprice": "2999",
+            "productoffer": " 1599",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Fit and Flare Red Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 19
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Trousers",
+            "productimg": "https://i.pinimg.com/736x/b5/d1/8c/b5d18c8da3a752a13160218bd3e942ed.jpg",
+            "productqut": "1",
+            "productprice": "1999",
+            "productoffer": " 999",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Fit and Flare Red Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 20
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Salwar-suti",
+            "productimg": "https://i.pinimg.com/474x/a4/56/ac/a456ac8c451bfe86478d2bab9c821331.jpg",
+            "productqut": "1",
+            "productprice": "2999",
+            "productoffer": " 1599",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Fit and Flare Red Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 21
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Jeans-Tshirt",
+            "productimg": "https://media1.popsugar-assets.com/files/thumbor/AxpC_IMxOXTSOdhghlHoxJQlR3A/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/05/28/849/n/1922564/6e2d079f47c0f709_imaxtree/i/Master-Basics-First.jpg",
+            "productqut": "1",
+            "productprice": "1999",
+            "productoffer": " 899",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Fit and Flare Red Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 22
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Chic Outfit",
+            "productimg": "https://publish.purewow.net/wp-content/uploads/sites/2/2022/05/june-outfit-ideas-2022-all-black-outfit.jpg",
+            "productqut": "1",
+            "productprice": "2599",
+            "productoffer": " 1299",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Fit and Flare Red Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 23
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Jumpsuti",
+            "productimg": "https://rukminim1.flixcart.com/image/832/832/xif0q/jumpsuit/x/i/6/s-bvjs1007-belavine-original-imagmw98v2ehs4ne.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "2699",
+            "productoffer": " 1399",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Fit and Flare Red Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 24
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "Dress",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/kzblocw0/dress/f/8/n/l-1093mtbrdflrd-momtobe-original-imagbcpabfeuyfxv.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "2189",
+            "productoffer": "1164",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Fit and Flare Red Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 25
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "Dark green Dress",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/dress/x/h/q/m-dress-01-pater-original-imagfeh2fjxxhvfa.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1599",
+            "productoffer": "730",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Bodycon Dark Green Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 26
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "Short Dress",
+            "productimg": "https://rukminim2.flixcart.com/image/416/416/xif0q/dress/m/8/4/m-na-rayon-v-style-fashion-original-imagzcq2kz3tam3r.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "999",
+            "productoffer": "599",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Fit and Flare Pink, Light Blue Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 27
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Green Sweater",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/l5bd5zk0/shopsy-sweater/b/i/l/free-0001-sweater-modern-look-women-original-imaggyz5tvfxymf2.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1599",
+            "productoffer": "759",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Woven Round Neck Green Sweater. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 28
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Hot Sweater",
+            "productimg": "https://images-cdn.ubuy.co.in/634e333eb6385819841580f6-winter-coats-for-women-hooded-warm.jpg",
+            "productqut": "1",
+            "productprice": "2399",
+            "productoffer": "1599",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Woven Round Neck light pink Sweater. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 29
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Sweater",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/k2gh30w0/sweater/y/g/8/xl-tta1000130-tokyo-talkies-original-imafhswygvxejebb.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1799",
+            "productoffer": "1599",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Solid Round Neck Red Sweater. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 30
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Monsoon Cloths",
+            "productname": "Long Raincort",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/l4zxn680/shopsy-raincoat/c/v/8/l-1-shopsy-pr-09-l-youth-robe-girls-original-imagfruya4sm7msc.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "2199",
+            "productoffer": "1449",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Floral Print Women Raincoat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 31
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Monsoon Cloths",
+            "productname": "Raincort",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/krqoknk0/raincoat/y/x/k/xxl-highlands-genius-rainsuit-d-pink-xxl-highlands-original-imag5gphhv6gvtgr.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1899",
+            "productoffer": "999",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Solid Women Raincoat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 32
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Monsoon Cloths",
+            "productname": "New Raincort",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/raincoat/g/h/p/l-highlands-genius-rainsuit-purple-l-highlands-original-imagqtft9a3hp8ga.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "2199",
+            "productoffer": "1299",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Solid Women Raincoat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 33
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "Anarkali",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/gown/s/g/8/na-xl-3-4-sleeve-stitched-fg11-krupanidhi-fashion-na-original-imagrgwg7fgafnrb.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1799",
+            "productoffer": "1099",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Solid Georgette Stitched Anarkali Gown  (Pink). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 34
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "net semi Anarkali",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/kzd147k0/gown/b/w/6/na-free-full-sleeve-semi-stitched-shamita-1-zinariya-fab-na-original-imagbeyquxgdf6zf.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1199",
+            "productoffer": "699",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Net Semi Stitched Anarkali Gown  (Purple). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 35
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "One-peace",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/kxrvi4w0/shopsy-gown/o/a/c/s-full-sleeve-stitched-u75-ekta-original-imaga5ehg39psegq.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1999",
+            "productoffer": "1299",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Floral Print Georgette Stitched Flared/A-line Gown  (Pink). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 36
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "All sesion",
+            "productname": "Casual",
+            "productimg": "https://images.kapsonsonline.com/kopl/images/GAS%20KIDS/410317150_0001/410317150_0001_1.jpg",
+            "productqut": "1",
+            "productprice": "1799",
+            "productoffer": " 899",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Optifit® Leather Adjustable Belt Auto with Lock Buckle Belt for Men,Fashion Golden Leopard Pattern Design-Long130cm. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 37
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "All sesion",
+            "productname": "Boys-Traditional",
+            "productimg": "https://ik.imagekit.io/bhsa3gea8yj/products/tr:w-1200/products-2018/Nov-2021/Handloom-Silk-Kurta-Pajama-In-Light-Brown-Colour-BK2710911-A.jpg",
+            "productqut": "1",
+            "productprice": "2199",
+            "productoffer": " 1299",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Optifit® Leather Adjustable Belt Auto with Lock Buckle Belt for Men,Fashion Golden Leopard Pattern Design-Long130cm. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 38
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "All sesion",
+            "productname": "Summer-ware",
+            "productimg": "https://images.squarespace-cdn.com/content/v1/559c4026e4b0b05c516049a2/1652107082005-75O9TI9SFX1E7C0ROCDA/DSC_3949.jpg",
+            "productqut": "1",
+            "productprice": "1299",
+            "productoffer": " 599",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Optifit® Leather Adjustable Belt Auto with Lock Buckle Belt for Men,Fashion Golden Leopard Pattern Design-Long130cm. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 39
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "All sesion",
+            "productname": "Winter-ware",
+            "productimg": "https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto,q_auto:eco,c_limit/11638777094448.jpg",
+            "productqut": "1",
+            "productprice": "499",
+            "productoffer": " 799",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Optifit® Leather Adjustable Belt Auto with Lock Buckle Belt for Men,Fashion Golden Leopard Pattern Design-Long130cm. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 40
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "All sesion",
+            "productname": "Kids-Shorts",
+            "productimg": "https://asset1.cxnmarksandspencer.com/is/image/mands/SD_04_T87_3031V_E0_X_EC_0?wid=1024&qlt=80",
+            "productqut": "1",
+            "productprice": "599",
+            "productoffer": " 299",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Optifit® Leather Adjustable Belt Auto with Lock Buckle Belt for Men,Fashion Golden Leopard Pattern Design-Long130cm. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 41
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "All sesion",
+            "productname": "Girls-Traditional",
+            "productimg": "https://i.pinimg.com/236x/63/9b/e1/639be1b614c3eeb24b1f67e24ed92e0b.jpg",
+            "productqut": "1",
+            "productprice": "1999",
+            "productoffer": "999",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Optifit® Leather Adjustable Belt Auto with Lock Buckle Belt for Men,Fashion Golden Leopard Pattern Design-Long130cm. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 42
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "T-shirt Shorts",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/i/g/g/12-18-months-combo-t-sl11-blue-vehicle-t-sl11-green-vehicle-mars-original-imagg9zcbhrzp8p6.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1199",
+            "productoffer": "599",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Boys Casual T-shirt Shorts  (Multicolor). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 43
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "Trousers",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/4/7/f/10-11-years-kgkbpzalsog2011030-de-moza-original-imagnhn95akh7yuz.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "599",
+            "productoffer": "399",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Girls Party(Festive) Top Trouser  (Green). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 44
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "Shorts",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-short/h/d/h/5-6-years-bst-p30-bck-alan-jones-original-imagztetggmjzszh.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "799",
+            "productoffer": "299",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Boys and girls summer cotton shorts. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 45
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "full Body Sweater",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/q/c/v/0-3-months-1-mummadi-original-imaghtfgxfjuguvz.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "449",
+            "productoffer": "249",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Baby Boys & Baby Girls Casual Sweater Pyjama  (Purple). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 46
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Boys Jackets",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/o/c/0/12-13-years-no-kids-kids-winter-jacket-blue-1287-elanhood-original-imag9g8ezgk5cty6-bb.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "989",
+            "productoffer": "589",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Kids Winter Jacket Boys Solid Quilted Jacket. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 47
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Girls Jackets",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/y/u/x/3-4-years-no-hw-hkg1801-honeybell-original-imaggjwnchj73tdz.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "2199",
+            "productoffer": "1309",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Girls Solid Casual Jacket. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 48
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Monsoon Cloths",
+            "productname": "Raincort",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/raincoat/k/d/y/2-3-years-fs117-a-kids-tp-green-2-3-firmed-string-original-imagqfjpecmgyqww.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "799",
+            "productoffer": "493",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Solid Boys & Girls Raincoat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 49
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Monsoon Cloths",
+            "productname": "boy raincort",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/l4oi4cw0/raincoat/q/y/v/15-16-years-kids-spider-men-raincoat-dressify-original-imagfj477kjy4ypc.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1199",
+            "productoffer": "599",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Graphic Print Boys Raincoat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 50
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Monsoon Cloths",
+            "productname": "Girl raincort",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/raincoat/w/b/y/5-6-years-unisex-pvc-full-sleeve-hooded-raincoat-rainsuit-for-original-imagezzw63gsymfk-bb.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "699",
+            "productoffer": "349",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Solid Girls Raincoat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 51
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "Jackets",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/l27wtjk0/kids-ethnic-set/m/x/c/4-5-years-prb-744-red-26-prabhuratan-original-imagdmfvy3fn6kmt.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1799",
+            "productoffer": "1099",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Boys Festive & Party, Wedding Shirt, Waistcoat and Pant Set  (Red Pack of 1). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 52
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "new style",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/kwxv98w0/kids-dress/5/d/b/7-8-years-gown-010-blue-ajiza-garments-original-imag9gb4wa6w4zpw.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1399",
+            "productoffer": "999",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Girls Maxi/Full Length Festive/Wedding Dress  (Dark Blue, Noodle strap). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 53
+        },
+        {
+            "addcategoriename": "Kids",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "long Dress",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/l/s/o/9-10-years-pink-grown-10-unickfashion-original-imaggzh2bu6qh4vx.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "899",
+            "productoffer": "459",
+            "productaddedate": "2023-07-27",
+            "productdescriptions": "Girls Maxi/Full Length Festive/Wedding Dress  (Multicolor, Sleeveless). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 54
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Men Watch",
+            "productimg": "https://superstyles.co.in/wp-content/uploads/2023/03/RX041-2.jpg",
+            "productqut": "1",
+            "productprice": "9,999",
+            "productoffer": "5,999",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Best quality watch for men look premium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 55
+        },
+        {
+            "addcategoriename": "Kids",
+            "productname": "Women Watch",
+            "productimg": "https://m.media-amazon.com/images/I/611I0f+I+MS._UX466_.jpg",
+            "productqut": "1",
+            "productprice": "8,999",
+            "productoffer": "4,999",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Best quality watch for women look premium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 56
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Kids Watch",
+            "productimg": "https://m.media-amazon.com/images/I/71DMUQgia5L._UY500_.jpg",
+            "productqut": "1",
+            "productprice": "999",
+            "productoffer": "599",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Best quality watch for kids look premium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 57
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Smartaatch",
+            "productimg": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/m/v/f/-original-imagkghdzgudguvd.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "3899",
+            "productoffer": "2459",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Best quality Smartwatch for mens, womens and kids look premium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 58
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Mens Sunglass",
+            "productimg": "https://www.colosseinglasses.com/cdn/shop/products/colossein_sunglasses_7_460x.jpg?v=1644393492",
+            "productqut": "1",
+            "productprice": "1,599",
+            "productoffer": "799",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Round face, Long face, Square face, Oval shape face UV400,Anti-glare,Anti-radiation. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 59
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Womens Sunglass",
+            "productimg": "https://m.media-amazon.com/images/I/51L1jouHzvL._UX679_.jpg",
+            "productqut": "1",
+            "productprice": "999",
+            "productoffer": "499",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "HAYDEN haiza UV400 Protective Sunglasses for Women Stylish with Storage Box Glasses Cloth, Rimless Diamond Cutting Lens with Stone Pink Sunglasses for Driving Shades for Women Premium Gift Item. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. ",
+            "id": 60
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Boys Sunglass",
+            "productimg": "https://m.media-amazon.com/images/I/515gKnUgwpL._UX679_.jpg",
+            "productqut": "1",
+            "productprice": "699",
+            "productoffer": "399",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "The Tinted Story | Full Rim Kids Sunglasses | Kids | Black | Small | Kids Pentad Sunglasses-Pack of 1. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 61
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Girl Sunglass",
+            "productimg": "https://m.media-amazon.com/images/I/31RXopPqtyL._SX466_.jpg",
+            "productqut": "1",
+            "productprice": "499",
+            "productoffer": "299",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "The Tinted Story | Full Rim Kids Sunglasses | Kids | yellow | Small | Kids Pentad Sunglasses-Pack of 1. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 62
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Mens Belt",
+            "productimg": "https://m.media-amazon.com/images/I/61KOrK1kdpL._UX522_.jpg",
+            "productqut": "1",
+            "productprice": "1,899",
+            "productoffer": "999",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Optifit® Leather Adjustable Belt Auto with Lock Buckle Belt for Men,Fashion Golden Leopard Pattern Design-Long130cm. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 63
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "leather Belt",
+            "productimg": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTTv60c0YA07PgeuodL9oYGpmuVa46QOf5UakTqfexOytXHvQCiK13BRSU3JQOjqNm0Gjx_opwvBHHSPap6mdd7-Elw0nvtUVsScFWEbjU&usqp=CAE",
+            "productqut": "1",
+            "productprice": "1,599",
+            "productoffer": "799",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Black Leather Belt (30) by MyntraOpens in a new window Black solid leather belt Secured with a tang closure. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 64
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "HandleBag",
+            "productimg": "https://m.media-amazon.com/images/I/71P7ORjJorL._UY695_.jpg",
+            "productqut": "1",
+            "productprice": "2,499",
+            "productoffer": "1,399",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "EXOTIC hand bag for women. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 65
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Small HandleBag",
+            "productimg": "https://images.mehar.xyz/product_thumbnail/1668422775-1.webp",
+            "productqut": "1",
+            "productprice": "1,399",
+            "productoffer": "699",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Best Selling Womens handlebag easy to care. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 66
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "Maroon Satchel",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/hand-messenger-bag/e/f/w/-original-imagg7fsy22tggn4.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "999",
+            "productoffer": "499",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Best Selling Womens handlebag easy to care. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 67
+        },
+        {
+            "addcategoriename": "Accessories",
+            "productname": "HExtra Spacious",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/kqjtd3k0/hand-messenger-bag/i/n/l/orignal-sea-green-combo-messenger-bag-1-orignal-sea-green-combo-original-imag4j98pswu6zqe.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1699",
+            "productoffer": "899",
+            "productaddedate": "2023-07-28",
+            "productdescriptions": "Best Selling Womens handlebag easy to care. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque? ",
+            "id": 68
+        }
+    ],
+    "Product-Details": [
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Jackets",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/kvgzyq80/thermal/q/s/q/85-ambwhnul-mel-gry-p-alfa-original-imag8db6duhd4kca.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "999",
+            "productoffer": "599",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Winter Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded ALFA BodyWarmer High Neck Winter Wear Men Top Thermal. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 12
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "shirt",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/l046he80/shirt/2/z/z/xxl-stripes-patta-latest-trendy-zera-shirts-for-human-blue-original-imagbzd6ptvcd8yh.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1999",
+            "productoffer": "1099",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap summer men's warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded Men Slim Fit Striped Button Down Collar Casual Shirt Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 7
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "Dark green Dress",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/dress/x/h/q/m-dress-01-pater-original-imagfeh2fjxxhvfa.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1599",
+            "productoffer": "730",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Bodycon Dark Green Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 26
+        }
+    ],
+    "Cart": [
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Wedding Cloths",
+            "productname": "Anarkali",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/gown/s/g/8/na-xl-3-4-sleeve-stitched-fg11-krupanidhi-fashion-na-original-imagrgwg7fgafnrb.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1799",
+            "productoffer": "1099",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Solid Georgette Stitched Anarkali Gown  (Pink). Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 34
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "All sesion",
+            "productname": "Classic Stome",
+            "productimg": "https://www.universityoffashion.com/blog/wp-content/uploads/2021/07/A-look-from-Brionis-Spring-2022-Collection.-Photo-Credit-Brioni.-scaled.jpg",
+            "productqut": "1",
+            "productprice": "3799",
+            "productoffer": " 1900",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "best cloths for men Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 2
+        },
+        {
+            "addcategoriename": "Womens",
+            "addsubcategoriename": "Summer Cloths",
+            "productname": "Dark green Dress",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/xif0q/dress/x/h/q/m-dress-01-pater-original-imagfeh2fjxxhvfa.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "1599",
+            "productoffer": "730",
+            "productaddedate": "2023-07-26",
+            "productdescriptions": "Hand Wash Only❥Great for homewear, daily, casual look, lounge wear, party, hang out with friends, dating, school, holiday, travel, vacation, office Women Bodycon Dark Green Dress. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 26
+        },
+        {
+            "addcategoriename": "Mens",
+            "addsubcategoriename": "Winter Cloths",
+            "productname": "Jackets",
+            "productimg": "https://rukminim2.flixcart.com/image/832/832/kvgzyq80/thermal/q/s/q/85-ambwhnul-mel-gry-p-alfa-original-imag8db6duhd4kca.jpeg?q=70",
+            "productqut": "1",
+            "productprice": "999",
+            "productoffer": "599",
+            "productaddedate": "2023-07-25",
+            "productdescriptions": "Cheap Winter Men's Warm Large Size Parka Outerwear Fur Lined Long Fleece Thickening Hooded ALFA BodyWarmer High Neck Winter Wear Men Top Thermal. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore labore, recusandae reprehenderit voluptate reiciendis qui ipsa consectetur illo animi corporis repellat rerum. Deserunt debitis, non pariatur cupiditate magnam consectetur atque?",
+            "id": 12
+        }
+    ]
+}
